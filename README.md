@@ -5,8 +5,6 @@ Hey you, I'm Filipe Mazzon mostly my friends call me Mazzon.
 
 I'm a Computer Engineer and currently doing a MBA in Solution Architecture,I  consider myself a Problem solver, agnostic of language/tool, and an enthusiast of clean code/design patterns and blockchain technology.
 
-I'm currently working on [Remessa online](https://www.remessaonline.com.br/).
-
 #### fun facts
 
 I and my team publish a paper on [IEEE network about blockchain](https://ieeexplore.ieee.org/document/8977447)
